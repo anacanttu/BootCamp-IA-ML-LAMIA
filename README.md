@@ -11,13 +11,15 @@
 #### 9 - Vídeo: Big Data is a Better Data (II)
 #### 10 - Prática: Lidando com Dados do Mundo Real (II) 
 
-#### 11 - Prática: Predição e a Base de Aprendizado de Máquina (II)
-#### 12 - Prática: Redes Neurais (II)
-#### 13 - Vídeo: Deep Learning In 5 Minutes (II)
-#### 14 - Prática: Redes Neurais Convolucionais 1 (Deep Learning) (II)
-#### 15 - Prática: Redes Neurais Convolucionais 2 (Deep Learning) (II)
-#### 16 - Prática: Docker e Containers para Aplicações (III)
-#### 17 - Vídeo: Como Estamos Ensinando os Computadores a Compreender Fotos (III)
-#### 18 - Prática: Visão Computacional (III)
-#### 19 - Prática: HSV com Opencv (III)
-#### 20 - Prática: Reconhecimento de Emoções com TensorFlow 2.0 e Python (III)
+#### 11 - Prática: Pipelines de Dados I - Airflow(I)
+#### 12 - Prática: Predição e a Base de Aprendizado de Máquina (II) 
+#### 13 - Prática: Redes Neurais (II) 
+#### 14 - Vídeo: Deep Learning In 5 Minutes (II)
+#### 15 - Prática: Redes Neurais Convolucionais 1 (Deep Learning) (II) - 7 dias
+#### 16 - Prática: Redes Neurais Convolucionais 2 (Deep Learning) (II) - 20 dias
+#### 17 - Prática: Docker e Containers para Aplicações (III) - 7 dias
+#### 18 - Prática: Pipelines de Dados II - Airflow (II)
+#### 19 - Vídeo: Como Estamos Ensinando os Computadores a Compreender Fotos (III) - 1 dia
+#### 20 - Prática: Visão Computacional (III) - 7 dias
+#### 21 - Prática: HSV com Opencv (III) - 1 dia
+#### 22 - Prática: Reconhecimento de Emoções com TensorFlow 2.0 e Python (III) - 10 dias
